@@ -1,0 +1,27 @@
+table{
+    border: chartreuse;
+
+width: 100%;
+}
+.tab_head{
+    background-color: chocolate;
+}
+.tab_head:hover{
+background-color: rgb(60, 10, 240);
+}
+.sr_row{
+    background-color: chartreuse;
+}
+.sr_row:hover{
+    background-color: rgb(98, 0, 255);
+}
+.tbl_row:nth-child(odd){
+    background-color: grey;
+
+}
+.tbl_row:hover{
+background-color: yellow;
+}
+#id1{
+    background-color: chartreuse;
+}

@@ -1,0 +1,18 @@
+.div_ov{
+    background-color: darkgoldenrod;
+}
+.div_ov:hover{
+    background-color: greenyellow;
+}
+.div_ov1{
+    background-color: rgb(19, 35, 177);
+}
+.div_ov1:hover{
+    background-color: rgb(128, 12, 76);
+}
+.div_ov2{
+    background-color: rgb(143, 118, 233);
+}
+.div_ov2:hover{
+    background-color: rgb(110, 49, 105);
+}

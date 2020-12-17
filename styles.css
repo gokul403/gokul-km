@@ -1,0 +1,20 @@
+div {
+    background-color: rgb(32, 10, 233);
+    width: 200%;
+    height: 250px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+p {
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(248, 12, 12);
+
+
+}
+.demo{
+    background-color: chocolate;
+    width: 50%;
+    height: 100px;
+}
